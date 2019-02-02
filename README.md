@@ -1,4 +1,4 @@
-# welcome to antimemory
+# Welcome
 
 The purpose of this site is to be a simple, easy to maintain place to blog my progress, my thoughts, and share my code with the public. Much of my coding has historically been done in private and not in the open. It was always my goal to learn how to engage with the open-source community and to learn to be a part of it. I hope to publish resources that I've found, books I'm reading, and other content to make it easier for others like me to get started as well.
 
