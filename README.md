@@ -2,7 +2,7 @@
 
 The purpose of this site is to be a simple, easy to maintain place to blog my progress, my thoughts, and share my code with the public. Much of my coding has historically been done in private and not in the open. It was always my goal to learn how to engage with the open-source community and to learn to be a part of it. I hope to publish resources that I've found, books I'm reading, and other content to make it easier for others like me to get started as well.
 
-For those of you who don't know me. I'm an [artist](http://www.masoodkamandy). My work has always been about enabling people to see the world in new and unique ways using tools that I write in code for photography. Sharing the work I create with that code is also a part of my art as well.
+For those of you who don't know me. I'm an [artist and technologist](http://www.masoodkamandy). My work has always been about enabling people to see the world in new and unique ways using tools that I write in code for photography. Sharing the work I create with that code is also a part of my art as well.
 
 From now on, sharing the code I write will be a part of that process too.
 
@@ -10,7 +10,7 @@ A promise I am making to myself is that this vehicle will not be self-promotiona
 
 Thanks for being there at the beginning.
 
-Unless otherwise stated, all code on this site is available to use under an MIT license. If you use the code, please include the following attribution:
+Unless otherwise stated, all code on this site is available to use under an MIT license. If you use the code, please include the following license and copyright notice:
 
 MIT License
 
